@@ -1,0 +1,46 @@
+{
+  "activities": [
+    {
+      "id": 1,
+      "name": "Netflix & chill",
+      "covidFriendly": true,
+      "timesPerformed": 0
+    },
+    {
+      "id": 2,
+      "name": "Birthday in a restaurant",
+      "covidFriendly": false,
+      "timesPerformed": 0
+    },
+    {
+      "id": 3,
+      "name": "Vacations in Hawaii",
+      "covidFriendly": false,
+      "timesPerformed": 0
+    },
+    {
+      "id": 4,
+      "name": "Becoming Maria Kondo",
+      "covidFriendly": true,
+      "timesPerformed": 0
+    },
+    {
+      "id": 5,
+      "name": "Disco Time!",
+      "covidFriendly": false,
+      "timesPerformed": 0
+    },
+    {
+      "id": 6,
+      "name": "Baking some bread",
+      "covidFriendly": true,
+      "timesPerformed": 0
+    },
+    {
+      "id": 7,
+      "name": "Buying in Amazon",
+      "covidFriendly": true,
+      "timesPerformed": 0
+    }
+  ]
+}
