@@ -52,3 +52,11 @@ Project uses the json-server to stubbing the future api backend.
 | ---------------- | ------ | -------------------------------- |
 | /activities      | GET    | returns an array of activities   |
 | /activities/{id} | PUT    | updates an activity filter by id |
+
+## Quality code
+
+![alt text](./src/readmeFiles/sonar.png 'Sonar Cloud Quality Gate')
+
+## Tests
+
+![alt text](./src/readmeFiles/coverage.png 'Tests Coverage')
