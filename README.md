@@ -60,3 +60,7 @@ Project uses the json-server to stubbing the future api backend.
 ## Tests
 
 ![alt text](./src/readmeFiles/coverage.png 'Tests Coverage')
+
+UX/UI
+
+![alt text](./src/readmeFiles/userInterface.png 'UX/UI')
