@@ -1,12 +1,12 @@
 import Axios from 'axios'
-export const dataProvider = async (request) => {
+export const dataProvider = (request) => {
     switch (request.method) {
         case 'GET':
-            return await backendGet(request)
+            return backendGet(request)
         case 'POST':
             break
         case 'PUT':
-            return await backendPut(request)
+            return backendPut(request)
         case 'DELETE':
             break
         default:
